@@ -22,6 +22,11 @@ Raw Data
 
 ---
 
+## Dashboard Preview
+<img width="1278" height="721" alt="Page_1_Market_Overview" src="https://github.com/user-attachments/assets/e45610ed-0a12-45b4-a97e-6b1e3172a54d" />
+
+---
+
 ## Key Components
 
 ### Data Warehouse
